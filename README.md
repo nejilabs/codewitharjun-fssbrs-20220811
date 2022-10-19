@@ -1,17 +1,13 @@
-<div>
-<div style="float:right">
+
+<div width="100%" align="right">
 
 <!-- Color Palette for Session Status: https://www.color-hex.com/color-palette/35021 -->
 
 [![Session Status: ](https://img.shields.io/badge/⌛%20Ongoing-gray.svg?color=E7B416&style=for-the-badge)![Session Timestamp: ](https://img.shields.io/badge/3/20%20|%203:07/6:44-DB7B2B?style=for-the-badge)](https://github.com/newojima/codewitharjun-fssbrs-20220811)
 
 </div>
-</div>
 
-<br/>
-<br/>
-
-<center>
+<div width="100%" align="center">
 
 # codewitharjun-fssbrs-20220811
 
@@ -24,7 +20,7 @@
 [![Course Date:](https://img.shields.io/badge/📅-gray.svg?color=F1DA4D&style=for-the-badge)![Date](https://img.shields.io/badge/Aug%2011,%202022-D7612B?style=for-the-badge)](https://www.youtube.com/playlist?list=PL1oBBulPlvs84AmRmT-_3dGz4KHYuINsj)
 [![Course Provider:](https://img.shields.io/badge/🖊️-gray.svg?color=C92812&style=for-the-badge)![Youtube Channel](https://img.shields.io/badge/@CodeWithArjun-A60E16?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/CodeWithArjun)
 
-</center>
+</div>
 
 <img src="@/../README/preview.png" width="100%"  alt="Preview of the App"/>
 

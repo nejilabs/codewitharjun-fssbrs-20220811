@@ -1028,7 +1028,7 @@ export default function Navbar() {
 }
 ```
 
-<img src="@/../README/assets/Screenshot_select-area_20221021163225.png]" width="100%"  alt="Screenshot_select-area_20221021163225.png]"/>
+<img src="@/../README/assets/Screenshot_select-area_20221021163225.png" width="100%"  alt="Screenshot_select-area_20221021163225.png"/>
 
 oops we forgot to change the name of the navbar, too lazy to screenshot but basically we just change the logo text from just “Navbar” to “Full Stack Application” (just following the course hehe).
 

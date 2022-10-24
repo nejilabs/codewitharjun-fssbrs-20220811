@@ -2853,7 +2853,7 @@ oh lol just now they implemented using the fullstacj application title nav butto
 
 # 21 - Conclusion: My Personal Thoughts on the course
 
-things he didnt show in this project tho, because this is just a simple crud user database system:
+things they didnt show in this project tho, because this is just a simple crud user database system:
 
 - no user authentication, implementation of login system for security
 - no displaying of error notifications, we have those custom exception handlers in the backend but they were not really implemented in the frontend
